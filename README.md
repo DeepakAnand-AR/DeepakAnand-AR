@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Anand AR</h1>
 <h3 align="center">Day One → One Day</h3>
-<img align="right" alt="Biotechnology" width="400 src="https://i.pinimg.com/originals/10/f0/b2/10f0b2dbb93987c1ad63d566c116fc79.gif">
+<img align="right" alt="Biotechnology" width="400 src="https:10f0b2dbb93987c1ad63d566c116fc79.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakanand-ar&label=Profile%20views&color=0e75b6&style=flat" alt="deepakanand-ar" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **deepakanand6105@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17xfXM8JSqh6aY8ZT0WW31rYi3SCH_Z8q/view?usp=sharing](https://drive.google.com/file/d/17xfXM8JSqh6aY8ZT0WW31rYi3SCH_Z8q/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17xfXM8JSqh6aY8ZT0WW31rYi3SCH_Z8q/view?usp=sharing][https://drive.google.com/file/d/17xfXM8JSqh6aY8ZT0WW31rYi3SCH_Z8q/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
