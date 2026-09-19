@@ -1,26 +1,196 @@
+<!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Deepak Anand AR</h1>
-<h3 align="center">Day One → One Day</h3>
-<img align="right" alt="Biotechnology" width="400 src="https:10f0b2dbb93987c1ad63d566c116fc79.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakanand-ar&label=Profile%20views&color=0e75b6&style=flat" alt="deepakanand-ar" /> </p>
+<h3 align="center">Day One → One Day 🚀</h3>
 
-- 🌱 I’m currently learning **Bioinformatics | Java | SQL 🧬💻🗄️**
+<br>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/DeepakAnand-AR]|[https://www.linkedin.com/in/deepak-anand-ar-636462391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]]([https://github.com/DeepakAnand-AR]|[https://www.linkedin.com/in/deepak-anand-ar-636462391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
+<!-- ABOUT ME + GIF -->
 
-- 📫 How to reach me **deepakanand6105@gmail.com**
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17xfXM8JSqh6aY8ZT0WW31rYi3SCH_Z8q/view?usp=sharing][https://drive.google.com/file/d/17xfXM8JSqh6aY8ZT0WW31rYi3SCH_Z8q/view?usp=sharing]
+<td width="60%" valign="top" style="border: none;">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepakanand ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakanand ar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepak123-_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak123-_" height="30" width="40" /></a>
+<h2>🌱 About Me</h2>
+
+<p>
+🧬 I'm a Biotechnology student interested in
+<b>Bioinformatics, Molecular Biology & Microbiology</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p>
+🌱 I'm currently learning
+<b>Bioinformatics | Java | SQL</b>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakanand-ar&show_icons=true&locale=en&layout=compact" alt="deepakanand-ar" /></p>
+<p>
+💻 Building my skills through projects, coding and
+continuous learning.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakanand-ar&" alt="deepakanand-ar" /></p>
+<p>
+👨‍💻 All of my projects are available on
+<a href="https://github.com/DeepakAnand-AR" target="_blank">
+<b>GitHub</b>
+</a>
+</p>
+
+<p>
+📫 Reach me at
+<b>deepakanand6105@gmail.com</b>
+</p>
+
+<p>
+📄
+<a href="https://drive.google.com/file/d/17xfXM8JSqh6aY8ZT0WW31rYi3SCH_Z8q/view?usp=sharing" target="_blank">
+<b>View My Resume</b>
+</a>
+</p>
+
+</td>
+
+<td width="40%" align="center" valign="middle" style="border: none;">
+
+<img
+src="https://i.pinimg.com/originals/10/f0/b2/10f0b2dbb93987c1ad63d566c116fc79.gif"
+width="350"
+alt="Animated Biotechnology DNA GIF">
+
+<br><br>
+
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+<img
+src="https://komarev.com/ghpvc/?username=deepakanand-ar&label=Profile%20Views&color=0e75b6&style=flat"
+alt="Profile Views">
+</p>
+
+<!-- CONNECT -->
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/DeepakAnand-AR" target="_blank">
+<img
+src="https://img.shields.io/badge/GitHub-DeepakAnand--AR-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-anand-ar-636462391" target="_blank">
+<img
+src="https://img.shields.io/badge/LinkedIn-Deepak%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn">
+</a>
+
+<a href="https://www.leetcode.com/deepak123-_" target="_blank">
+<img
+src="https://img.shields.io/badge/LeetCode-deepak123--_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+alt="LeetCode">
+</a>
+
+</p>
+
+<br>
+
+<!-- CURRENTLY LEARNING -->
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+
+🧬 <b>Bioinformatics</b>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+☕ <b>Java</b>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🗄️ <b>SQL</b>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🧪 <b>Biotechnology</b>
+
+</p>
+
+<br>
+
+<!-- LANGUAGES & TOOLS -->
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+
+<a href="https://www.java.com/" target="_blank">
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+width="55"
+height="55"
+alt="Java">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+width="55"
+height="55"
+alt="MySQL">
+</a>
+
+<a href="https://www.blender.org/" target="_blank">
+<img
+src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+width="55"
+height="55"
+alt="Blender">
+</a>
+
+</p>
+
+<br>
+
+<!-- GITHUB STATS -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=deepakanand-ar&show_icons=true&locale=en"
+alt="GitHub Stats">
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakanand-ar&show_icons=true&locale=en&layout=compact"
+alt="Top Languages">
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=deepakanand-ar"
+alt="GitHub Streak">
+
+</p>
+
+<br>
+
+<!-- MOTTO -->
+
+<h2 align="center">🚀 My Motto</h2>
+
+
+<p align="center">
+🧬 Learn • 💻 Build • 🔬 Explore • 🚀 Grow
+</p>
