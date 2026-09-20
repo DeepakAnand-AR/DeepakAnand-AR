@@ -168,22 +168,6 @@ alt="Blender">
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=deepakanand-ar&show_icons=true&locale=en"
-alt="GitHub Stats">
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakanand-ar&show_icons=true&locale=en&layout=compact"
-alt="Top Languages">
-
-</p>
-
-<p align="center">
-
-<img
 src="https://github-readme-streak-stats.herokuapp.com/?user=deepakanand-ar"
 alt="GitHub Streak">
 
@@ -198,4 +182,13 @@ alt="GitHub Streak">
 
 <p align="center">
 🧬 Learn • 💻 Build • 🔬 Explore • 🚀 Grow
+</p>
+<h2 align="center">🐍 My GitHub Contribution Journey</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DeepakAnand-AR/DeepakAnand-AR/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
