@@ -6,22 +6,26 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Anand AR</h1>
 
-<h3 align="center">Day One → One Day 🚀</h3>
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=1600&pause=1000&deleteSpeed=45&color=00D9FF&center=true&vCenter=true&width=900&lines=%F0%9F%A7%AC+DAY+ONE+%E2%86%92+ONE+DAY+%F0%9F%9A%80;%F0%9F%94%AC+LEARN+%E2%86%92+EXPLORE+%E2%86%92+BUILD+%E2%86%92+GROW;%F0%9F%A7%AC+I+AM+INTERESTED+IN+BIOINFORMATICS+AND+GENETIC+ENGINEERING&loop=true"
+    alt="Deepak Anand Biotechnology Animation"
+  />
+</p>
 <br>
 
 <!-- ABOUT ME + GIF -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="0">
 <tr>
 
-<td width="60%" valign="top" style="border: none;">
+<td width="0" valign="top" style="border: none;">
 
 <h2>🌱 About Me</h2>
 
 <p>
 🧬 I'm a Biotechnology student interested in
-<b>Bioinformatics, Molecular Biology & Microbiology</b>.
+<b>Bioinformatics and Genetic Engineering</b>.
 </p>
 
 <p>
@@ -119,9 +123,6 @@ alt="LeetCode">
 ☕ <b>Java</b>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 🗄️ <b>SQL</b>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🧪 <b>Biotechnology</b>
-
 </p>
 
 <br>
